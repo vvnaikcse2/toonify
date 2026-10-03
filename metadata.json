@@ -1,0 +1,7 @@
+{
+  "name": "Toonify - Simple Image to Cartoon Converter",
+  "description": "Easily convert any photo into a vibrant cartoon with simple styles, interactive split-view comparison, and instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
